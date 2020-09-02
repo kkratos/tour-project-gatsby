@@ -1,0 +1,9 @@
+.title{
+    color:blue;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.blog{
+    text-transform: capitalize;
+}

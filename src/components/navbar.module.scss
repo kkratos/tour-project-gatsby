@@ -1,0 +1,16 @@
+.navbar {
+  background-color: blue;
+  display: flex;
+  justify-content: space-around;
+  h2 {
+    color: #fff;
+  }
+  ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  li {
+    list-style-type: none;
+    color: #fff;
+  }
+}
